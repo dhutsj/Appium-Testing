@@ -1,0 +1,12 @@
+TOUCH|{'x':1251,'y':2496,'type':'downAndUp',}
+WAIT|{'seconds':5.0,}
+TOUCH|{'x':1134,'y':400,'type':'downAndUp',}
+WAIT|{'seconds':5.0,}
+TYPE|{'message':'protestaccount000',}
+WAIT|{'seconds':10.0,}
+TOUCH|{'x':562,'y':821,'type':'downAndUp',}
+WAIT|{'seconds':10.0,}
+TYPE|{'message':'btcchina',}
+WAIT|{'seconds':10.0,}
+TOUCH|{'x':1192,'y':2448,'type':'downAndUp',}
+WAIT|{'seconds':5.0,}
